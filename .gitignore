@@ -3,8 +3,9 @@ build/
 /cmake-build-*/
 # Visual Studio Out-of-Source build directory
 /out/
-# CLion
+# CLion/VSCode
 /.idea/
+/.vscode/
 
 # Compiled Object files, libraries, and executables
 *.slo
