@@ -5,7 +5,7 @@ build/
 /out/
 # CLion/VSCode
 /.idea/
-/.vscode/
+.vscode/
 
 # Compiled Object files, libraries, and executables
 *.slo
