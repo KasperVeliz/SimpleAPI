@@ -1,0 +1,46 @@
+# CMake generated build directories
+build/
+/cmake-build-*/
+# Visual Studio Out-of-Source build directory
+/out/
+# CLion
+/.idea/
+
+# Compiled Object files, libraries, and executables
+*.slo
+*.lo
+*.o
+*.obj
+*.a
+*.la
+*.lai
+*.so
+*.so.*
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# CMake specific files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+Makefile*
+compile_commands.json
+
+# Editor/IDE specific files (optional, can also go in global gitignore)
+.DS_Store # macOS
+.vscode/ # VS Code
+.vs/ # Visual Studio .vs directory
+*.suo
+*.user
+*.user.*
+*.autosave
